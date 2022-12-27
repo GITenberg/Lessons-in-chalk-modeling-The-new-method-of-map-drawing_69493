@@ -1,0 +1,24 @@
+_repo: Lessons-in-chalk-modeling-The-new-method-of-map-drawing_69493
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Heffron, Ida Cassa
+    gutenberg_agent_id: '55291'
+    url: http://www.gutenberg.org/2009/agents/55291
+description: ''
+gutenberg_issued: '2022-12-07'
+identifiers:
+  gutenberg: '69493'
+language: en
+pgterms:marc905: 20220203040912heffron
+pgterms:marc906: '1900'
+pgterms:marc907: US
+production_note: Steve Mattern and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: 'United States: Educational Publishing Company,1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Lessons in chalk modeling: The new method of map drawing'
+url: http://www.gutenberg.org/ebooks/69493
