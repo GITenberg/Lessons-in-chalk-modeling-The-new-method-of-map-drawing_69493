@@ -1,11 +1,16 @@
 _repo: Lessons-in-chalk-modeling-The-new-method-of-map-drawing_69493
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69493-h/images/cover.jpg
 creator:
   author:
     agent_name: Heffron, Ida Cassa
     gutenberg_agent_id: '55291'
     url: http://www.gutenberg.org/2009/agents/55291
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69493#Lessons-in-chalk-modeling-The-new-method-of-map-drawing
 gutenberg_issued: '2022-12-07'
 identifiers:
   gutenberg: '69493'
